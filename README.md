@@ -8,11 +8,9 @@ Mateial do **Curso de Git e GitHub**, disponível no *canal do Youtube Curso em 
 # Markdown
 ## Dicas da linguaguem markdown
 ---
-
 ### Negrito, Itálico e Tracejado
 Estou aprendendo linguagem **Markdown** no __*Curso em Vídeo de Git e GitHub*__ ~realizado ao vivo durante a quarentena~.
 ***
-
 ### Listas Numeradas
 1. Teste
 1. Teste2
@@ -42,7 +40,7 @@ Estou aprendendo linguagem **Markdown** no __*Curso em Vídeo de Git e GitHub*__
 ![Logomarcas do GitHub e do Markdown](https://ourcodeworld.com/public-media/articles/articleocw-5755472112ab3.jpg)
 
 Acesse meu [LinkedIn](https://www.linkedin.com/in/otthonleao/)
-***
+---
 
 ### Tabelas
 Num | Nome | Nota
@@ -51,7 +49,7 @@ Num | Nome | Nota
 2 | Roany | 10.0
 3 | Genir | 10.0
 4 | Roninho | 10.0
-***
+---
 
 ### Comandos
 Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript.
@@ -64,12 +62,12 @@ if num %2 == 0
 else:
    print(f'O valor {num] é ÍMPAR');
 ```
-***
+---
 
 ### Emojis
 :nomeDoEmoji: (Coloque entre dois pontos e depois o nome do emoji do repositório da [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet).)
-Exemplo: :star_struck:
-***
 
-Para maiores informações sobre o markdown olhe a apostila no GitHub do professor [Gustavo Guanabara](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+Exemplo: :star_struck:
+---
+
 
